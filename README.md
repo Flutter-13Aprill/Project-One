@@ -17,7 +17,7 @@ The goal of this project is to strengthen your understanding of core programming
 ## 🧠 Skills and Knowledge Required
 
 Before starting, make sure you're comfortable with the following Dart programming concepts:
-
+-
 - ✅ **Variables** — to store data like book titles, authors, and years.
 - ✅ **Loops** — to iterate through book lists.
 - ✅ **Functions** — to encapsulate logic for tasks (e.g., adding or deleting a book).
@@ -27,7 +27,7 @@ Before starting, make sure you're comfortable with the following Dart programmin
 - ✅ **Conditionals** — to manage logic like validating input or checking if a book exists.
 
 ---
-
+##hhh
 ## 🛠 How the Project Works
 
 1. **Running the Program**  
